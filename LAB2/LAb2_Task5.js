@@ -9,5 +9,5 @@ let calculate_average_and_highest = function(){
     return return_array;
      
 }
-let result = calculate_average_and_highest(10,10,70,60,64);
+let result = calculate_average_and_highest(15,20,25,30,35);
 console.log("Average is : ",result[0]," and highest is: ",result[1]);
